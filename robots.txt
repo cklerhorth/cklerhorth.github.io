@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cklerhorth.github.io/sitemap.html.gz
+Sitemap: https://cklerhorth.github.io/app/sitemap.html.gz
+Sitemap: https://cklerhorth.github.io/assets/sitemap.html.gz
+Sitemap: https://cklerhorth.github.io/css/sitemap.html.gz
+Sitemap: https://cklerhorth.github.io/includes/sitemap.html.gz
+Sitemap: https://cklerhorth.github.io/item/sitemap.html.gz
+Sitemap: https://cklerhorth.github.io/src/sitemap.html.gz
